@@ -1,0 +1,43 @@
+# 🔥 Python in Real DevOps
+
+Python is commonly used for:
+
+- Linux Automation
+- Server Administration
+- Infrastructure Automation
+- AWS Automation
+- Azure Automation
+- Google Cloud Automation
+- Docker Automation
+- Kubernetes Automation
+- CI/CD Pipelines
+- Jenkins Integration
+- Monitoring Scripts
+- Log Analysis
+- Backup Automation
+- Health Checks
+- REST API Automation
+- Configuration Management
+- Security Auditing
+- File Management
+
+---
+
+# ☁️ Python Libraries Used in DevOps
+
+| Library | Purpose |
+|----------|---------|
+| os | Operating system operations |
+| sys | System-specific parameters |
+| shutil | File and directory management |
+| subprocess | Execute Linux commands |
+| pathlib | File path handling |
+| datetime | Date and time operations |
+| json | JSON processing |
+| yaml (PyYAML) | YAML file handling |
+| requests | REST API calls |
+| boto3 | AWS Automation |
+| docker | Docker API |
+| kubernetes | Kubernetes API |
+| paramiko | SSH Automation |
+| logging | Application logging |
