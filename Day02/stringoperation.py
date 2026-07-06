@@ -32,3 +32,24 @@ print(text.title())
 
 
 
+text = "I love Python"
+
+print(text.replace("Python", "coding"))
+print(text.find("Python"))             
+print("love" in text)                   
+
+
+sentence = "Python is fun"
+words = sentence.split(" ")  
+
+new_sentence = "-".join(words)  
+
+name = "Tushar"
+age = 23
+
+greeting = f"Hello, my name is {name} and I am {age} years old."
+print(greeting) 
+
+
+
+
