@@ -30,4 +30,14 @@ def introduce(name, country="India"):
     print(f"{name} is from {country}.")
 introduce("John", "USA")  
 
-introduce("Tushar")       
+introduce("Tushar")
+
+
+
+#Function with Variable-Length Arguments
+def sum_all_numbers(*args):
+    total = sum(args)
+    return total
+
+print(sum_all_numbers(1, 2, 3))
+print(sum_all_numbers(10, 20, 30, 40))
